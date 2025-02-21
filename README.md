@@ -1,6 +1,6 @@
 ## ENGENHEIRO DA COMPUTAÇÃO | DESENVOLVEDOR FULL STACK | ADVOGADO🚀
 
-Olá, meu nome é Regis Laguna, Sou Advogado a mais de 10 anos. Vivo hoje uma paixão antiga, que estava adormecida, que é o fascínio pela tecnologia como um todo. Sou Engenharia da Computação pela Univesp e Desenvolvedor Full Stack pelo senac, sou pós-graduado em Direito Previdenciário e do Trabalho.
+Olá, meu nome é Regis Laguna, sou Advogado a mais de 10 anos. Vivo hoje uma paixão antiga, que estava adormecida, que é o fascínio pela tecnologia como um todo. Sou Engenheiro da Computação pela Univesp e Desenvolvedor Full Stack pelo senac, sou pós-graduado em Direito Previdenciário e do Trabalho.
 
 Recentemente li um texto que sintetiza o sentimento vivencio nesse novo caminho "a centelha que estava faltando acendeu no instante em que clicou em reproduzir meu primeiro vídeo tutorial em Python" (autor desconhecido).
 
