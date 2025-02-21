@@ -2,9 +2,9 @@
 
 Olá, meu nome é Regis Laguna, sou Advogado a mais de 10 anos. Vivo hoje uma paixão antiga, que estava adormecida, que é o fascínio pela tecnologia como um todo. Sou Engenheiro da Computação pela Univesp e Desenvolvedor Full Stack pelo senac, sou pós-graduado em Direito Previdenciário e do Trabalho.
 
-Recentemente li um texto que sintetiza o sentimento vivencio nesse novo caminho "a centelha que estava faltando acendeu no instante em que clicou em reproduzir meu primeiro vídeo tutorial em Python" (autor desconhecido).
+Recentemente li um texto que sintetiza o sentimento que vivencio nesse novo caminho "a centelha que estava faltando acendeu no instante em que clicou em reproduzir meu primeiro vídeo tutorial em Python" (autor desconhecido).
 
-No instante que eu li esse pequeno texto me remeteu a pandemia em 2020, quando em casa e em meio aquele turbilhão sem aviso prévio recomendação de um curso grátis em Python no Canal Curso em Vídeo chamado atenção que todos podem aprender programação. Assistir algumas aulas que reacendeu aquele desejo de tentar aquilo que quando menino me julguei incapaz de fazer, aquela falsa ilusão "Ah! não sou bom em matemática".
+No instante que eu li esse pequeno texto me remeteu a pandemia em 2020, quando em casa e em meio aquele turbilhão, sem aviso prévio, apareceu a recomendação de um curso grátis em Python no Canal Curso em Vídeo chamando atenção que todos podem aprender programação. Assistir algumas aulas que reacendeu aquele desejo de tentar aquilo que quando menino me julguei incapaz de fazer, aquela falsa ilusão "Ah! não sou bom em matemática".
 
 Esse curso me ajudou a compreender que aquilo que eu julgava não ser bom era tão somente uma ilusão. E ai iniciou a minha busca por iniciar mais uma nova graduação voltada para uma paixão. Por circunstâncias da vida demorou um pouco, mas chegou a minha hora e hoje vejo que não era nada daquilo que imaginava, é algo muito melhor.
 
