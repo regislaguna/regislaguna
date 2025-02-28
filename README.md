@@ -1,3 +1,95 @@
+Perfil Read.md
+# Olá, eu sou Regis Laguna! 👋
+ 
+## 🚀 Desenvolvedor Fullstack | 🎨 Especialista em UI/UX | Engenheiro da Computação | Advogado
+ 
+Sou um desenvolvedor fullstack com uma trajetória única, unindo a precisão da Engenharia da Computação e a visão estratégica do Direito. Apaixonado por criar soluções digitais que harmonizam design intuitivo e funcionalidade robusta, tenho experiência em tecnologias como HTML, CSS, JavaScript, Node.js, React, Java, Python, C++ e prototipação de interfaces com Figma. Minha abordagem combina a criatividade técnica com a atenção aos detalhes, garantindo projetos que não apenas funcionam, mas também encantam. Sempre em busca de inovação e melhores práticas, estou pronto para transformar ideias em soluções de alta qualidade e impacto.
+ 
+---
+ 
+🛠️ Tecnologias e Ferramentas
+<div align="center">
+HTML
+
+CSS
+
+JavaScript
+
+React
+
+Node.js
+
+Python
+
+Java
+
+C++
+
+Figma
+
+Git
+
+GitHub
+
+</div>
+🎓 Formação e Experiência Multidisciplinar
+Engenharia da Computação: Base sólida em desenvolvimento de software, arquitetura de sistemas e resolução de problemas complexos.
+
+Direito: Visão estratégica e analítica, com habilidades em gestão de riscos, compliance e análise de contratos.
+
+Desenvolvimento Fullstack: Experiência em criar soluções digitais completas, desde o front-end até o back-end, com foco em escalabilidade e experiência do usuário.
+
+🎨 Prototipação e Design
+Além do desenvolvimento, tenho experiência em criar protótipos de alta fidelidade no Figma, garantindo que a experiência do usuário seja intuitiva e agradável. Meu processo inclui:
+
+🖌️ Pesquisa de usuários
+
+🎯 Wireframes e protótipos interativos
+
+🧩 Design system e componentização
+
+📂 Projetos Destacados
+<div align="center">
+[![Projeto 1](https://img.shields.io/badge/Projeto_1-FF6F61?style=for-the-badge)](https://github.com/seu-usuario/projeto-1)
+
+[![Projeto 2](https://img.shields.io/badge/Projeto_2-6B5B95?style=for-the-badge)](https://github.com/seu-usuario/projeto-2)
+
+[![Projeto 3](https://img.shields.io/badge/Projeto_3-88B04B?style=for-the-badge)](https://github.com/seu-usuario/projeto-3)
+</div>
+📊 Estatísticas do GitHub
+<div align="center">
+GitHub Stats
+
+Top Langs
+
+</div>
+🎮 Cobrinha do GitHub
+Snake animation
+
+📫 Vamos Conversar!
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF7139?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.com)
+
+</div>
+💡 Inspiração do Dia
+Random Quote
+
+Feito com ❤️ por Regis Laguna | Visite meu portfólio
+
+🚀 Diferenciais
+Visão Técnica e Jurídica: Combino conhecimentos de Engenharia da Computação e Direito para entregar soluções que são não apenas tecnicamente robustas, mas também alinhadas com as melhores práticas legais e de negócios.
+
+Versatilidade Tecnológica: Domínio de diversas linguagens e ferramentas, desde desenvolvimento web (HTML, CSS, JavaScript, React, Node.js) até linguagens de programação como Python, Java e C++.
+
+Foco no Usuário: Prototipação e design de interfaces que priorizam a experiência do usuário, garantindo produtos finais intuitivos e eficientes.
+ 
+
+
 ## ENGENHEIRO DA COMPUTAÇÃO | DESENVOLVEDOR FULL STACK | ADVOGADO🚀
 
 Olá, meu nome é Regis Laguna, sou Advogado a mais de 10 anos. Vivo hoje uma paixão antiga, que estava adormecida, que é o fascínio pela tecnologia como um todo. Sou Engenheiro da Computação pela Univesp e Desenvolvedor Full Stack pelo senac, sou pós-graduado em Direito Previdenciário e do Trabalho.
